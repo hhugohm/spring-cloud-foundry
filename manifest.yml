@@ -1,0 +1,7 @@
+---
+applications:
+- name: neosfoundry
+  memory: 768M
+  path: target/neosfoundry-0.0.1-SNAPSHOT.jar
+  instances: 1
+  random-route: true
